@@ -37,4 +37,4 @@ This repository presents a comprehensive approach to understanding and recommend
 
 ---
 
-*Disclaimer: The information and recommendations provided in this repository are based on the analysis conducted up to September 2021. The landscape of open source licensing and the power industry may have evolved since then.*
+*Disclaimer: The information and recommendations provided in this repository are based on the analysis conducted up to March 2023. The landscape of open source licensing and the power industry may have evolved since then.*
